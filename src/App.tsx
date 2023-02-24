@@ -8,11 +8,11 @@ import {Footer} from "./components/Footer";
 function App() {
   return (
     <div className="App">
-        <Header/>
+        <Header />
         <Carrousel />
-        <ContactUs/>
-        <WhoWeAre/>
-        <Footer/>
+        <ContactUs />
+        <WhoWeAre />
+        <Footer />
     </div>
   )
 }
