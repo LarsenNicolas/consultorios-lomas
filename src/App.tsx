@@ -1,11 +1,18 @@
 import './App.css'
 import {Carrousel} from "./seccions/Carrousel";
+import {ContactUs} from "./seccions/ContactUs";
+import {WhoWeAre} from "./seccions/WhoWeAre";
+import {Header} from "./components/Header";
+import {Footer} from "./components/Footer";
 
 function App() {
   return (
     <div className="App">
-      <Carrousel />
-      <h1>lu borra esto</h1>
+        <Header/>
+        <Carrousel />
+        <ContactUs/>
+        <WhoWeAre/>
+        <Footer/>
     </div>
   )
 }
