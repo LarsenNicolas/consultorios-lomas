@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <Carrousel />
+      <h1>lu borra esto</h1>
     </div>
   )
 }
