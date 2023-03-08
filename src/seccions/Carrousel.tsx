@@ -1,3 +1,5 @@
+import "../tailwind.css";
+
 export function Carrousel () {
   return (
     <div className="carrousel">
