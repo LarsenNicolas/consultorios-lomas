@@ -9,7 +9,7 @@ export function Header() {
                 <a href="https://www.instagram.com/espacio_divan/"><IconBrandInstagram size={40} color="grey"></IconBrandInstagram></a>
             </div>
             <div className="flex items-center justify-center items-baseline">
-                <img src="/public/fotosConsutorio/Capture.PNG" alt="Divan"></img>
+                <img src="https://raw.githubusercontent.com/LarsenNicolas/consultorios-lomas/master/public/fotosConsutorio/Capture.PNG" alt="Divan"></img>
             </div>
             <div className="flex justify-center items-center space-x-20">
                 <a href="#"
