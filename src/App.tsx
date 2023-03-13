@@ -14,8 +14,8 @@ function App() {
         </section>
         <section className='flex flex-col mt-21'>
             <Carrousel />
-            <ContactUs />
             <WhoWeAre />
+            <ContactUs />
             <Footer />
         </section>
     </main>
