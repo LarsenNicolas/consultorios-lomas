@@ -8,6 +8,10 @@ export function Carrousel () {
         <ImagenCarrousel path="https://raw.githubusercontent.com/LarsenNicolas/consultorios-lomas/master/public/fotosConsutorio/consulf2.jpg"></ImagenCarrousel>
         <ImagenCarrousel path="https://raw.githubusercontent.com/LarsenNicolas/consultorios-lomas/master/public/fotosConsutorio/consul2.jpg"></ImagenCarrousel>
         <ImagenCarrousel path="https://raw.githubusercontent.com/LarsenNicolas/consultorios-lomas/master/public/fotosConsutorio/consul3.jpg"></ImagenCarrousel>
+        <ImagenCarrousel path="https://raw.githubusercontent.com/LarsenNicolas/consultorios-lomas/master/public/fotosConsutorio/pasillo%20(2).jpeg"></ImagenCarrousel>
+
+
+
     </section>
   )
 }
