@@ -8,11 +8,11 @@ import {Footer} from "./components/Footer";
 
 function App() {
   return (
-    <main>
-        <section className='h-18'>
+    <main className=''>
+        <section className=''>
             <Header />
         </section>
-        <section className='flex flex-col mt-21'>
+        <section className='h-screen flex flex-col'>
             <Carrousel />
             <WhoWeAre />
             <ContactUs />
