@@ -40,15 +40,15 @@ export function Carrousel() {
             {
                 breakpoint: 2400,
                 settings: {
-                    slidesToShow: 3,
-                    slidesToScroll: 3,
+                    slidesToShow: 4,
+                    slidesToScroll: 4,
                 },
             },
         ],
     };
 
     return (
-        <Slider {...settings}>
+        <Slider id="carrousel" {...settings}>
             <div>
                 <ImagenCarrousel path="https://raw.githubusercontent.com/LarsenNicolas/consultorios-lomas/master/public/fotosConsutorio/Frente.jpg" />
             </div>

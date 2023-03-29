@@ -2,7 +2,7 @@ import "../tailwind.css";
 
 export function ImagenCarrousel (props: { path: string }) {
     return (
-        <img className='object-cover max-h-100 p-2'
+        <img className='h-70 p-2'
             src={props.path}
             alt=""
         />

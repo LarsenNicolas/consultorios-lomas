@@ -5,11 +5,11 @@ export function Header() {
     return (
         <div className="flex flex-col  pt-2  pb-0">
             <div className="flex justify-center space-x-10 pb-10 ">
-                <a href="#"
+                <a href="#carrousel"
                    className="text-neutral-700  px-3 py-2 rounded-md text-sm font-medium hover:text-amber-200  hover:bg-neutral-800">Inicio</a>
-                <a href="#"
+                <a href="#whoWeAre"
                    className="text-neutral-700  px-3 py-2 rounded-md text-sm font-medium hover:text-amber-200 hover:bg-neutral-800">Quienes somos?</a>
-                <a href="#"
+                <a href="#contactUs"
                    className="text-neutral-700  hover:text-amber-200  px-3 py-2 rounded-md text-sm font-medium hover:bg-neutral-800">Contacto</a>
             </div>
             <div className="flex items-center justify-center items-baseline ">

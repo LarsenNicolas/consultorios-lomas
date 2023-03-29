@@ -5,6 +5,7 @@ import {ContactUs} from "./seccions/ContactUs";
 import {WhoWeAre} from "./seccions/WhoWeAre";
 import {Header} from "./components/Header";
 import {Footer} from "./components/Footer";
+import {Maps} from "./seccions/Maps";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
             <Carrousel />
             <WhoWeAre />
             <ContactUs />
+            <Maps />
             <Footer />
         </section>
     </main>
