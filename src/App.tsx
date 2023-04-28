@@ -6,6 +6,7 @@ import {WhoWeAre} from "./seccions/WhoWeAre";
 import {Header} from "./components/Header";
 import {Footer} from "./components/Footer";
 import {Maps} from "./seccions/Maps";
+import React from "react";
 
 function App() {
   return (

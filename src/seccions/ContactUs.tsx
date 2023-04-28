@@ -9,8 +9,8 @@ export function ContactUs(){
             <IconCard
                 icon={<IconBrandWhatsapp size={80}/>}
                 title={"Whatsapp"}
-                description={"11xxxxxxxx"}
-                href="https://web.whatsapp.com/"
+                description={"+549 1159314071"}
+                href="https://wa.me/541159314071"
             />
             <IconCard icon={<IconBrandInstagram size={80} />}
                       title={"Instagram"}
