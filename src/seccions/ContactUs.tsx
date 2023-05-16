@@ -19,7 +19,7 @@ export function ContactUs(){
             />
             <IconCard icon={<IconMapPinFilled size={80} />}
                       title={"Ubicacion"}
-                      description={"Av. Hipólito Yrigoyen 9187,  Lomas del Mirador"}
+                      description={"Av. Hipólito Yrigoyen 9183,  Lomas del Mirador"}
                       href="https://www.google.com/maps/place/Edificio+Donna+Lomas+Center/@-34.7625635,-58.4053945,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcd292d64d7d31:0x8c7725bbbbf563ee!8m2!3d-34.7625679!4d-58.4032058!16s%2Fg%2F11cs3997_w?hl=es"
             />
         </div>
